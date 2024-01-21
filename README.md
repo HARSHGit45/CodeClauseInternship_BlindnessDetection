@@ -15,7 +15,7 @@ This project is part of my internship at CodeClause and focuses on using machine
 
 1. **Dataset:** You can find the dataset used for training [here](https://www.kaggle.com/code/akshat0007/diabetic-retinopathy-detection-and-classification/notebook#Diabetic-Retinopathy).
 2. **Training:** The model training script is available in the `Blindness_Detection.ipynb` directory. Adjust the hyperparameters as needed.
-3. **Inference:** Once trained, the model can be used for inference on new images. 
+3. **Inference:** Once trained, the model can be used for inference on new images. some sample images are provided in test folder
 
 ## Requirements
 
