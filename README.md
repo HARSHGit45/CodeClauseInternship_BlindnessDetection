@@ -1,4 +1,3 @@
-# Blindness Detection
 
 # Diabetic Retinopathy Detection (Blindness Detection)
 
